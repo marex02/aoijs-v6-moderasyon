@@ -1,2 +1,1 @@
-# aoijs-v6-moderasyon
-Aoijs v6 Moderasyon
+# 15 Starda Altyapı Burda!!
